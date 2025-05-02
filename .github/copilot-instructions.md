@@ -1,0 +1,24 @@
+このリポジトリに記載される内容は、GitHub Copilot を利用し、以下のガイドラインに従って記載されます。
+
+- 英語は、plain, constructive, and polite に表現します。
+- 日本語は、平易に、建設的に、丁寧に表現します。
+- Markdownの強調表示は使用しません。
+- 絵文字はそれが役立つところであれば、積極的に使用します👍
+- 専門用語や略語には、初出時に簡単な説明や注釈をつけます。
+- あらゆる人に閲覧されることを前提に、誰にも害を及ぼさない、誰もの利益になる内容を記載します。
+- 1文1意・短文を徹底し、分かりやすさを重視します。
+- 箇条書きやリストを多用し、要点や手順を整理します。
+- 充分な推論を重ね、最大限に創造的で知的で大胆な内容を記載します。
+- このプロジェクトのトップラインは、日本語では次の2つです。
+  - 私たちは生成AIと共創する。
+  - ちょっとした勇気で地図を作る。
+- このプロジェクトのトップラインは、英語では次の2つです。
+  - We co-create with generative AI.
+  - It's easy to be brave enough to map.
+- 重要な注意点や禁止事項は、太字やアイコン（例：⚠️）で目立たせます。
+- 画像や図解は用いないでください。
+- 参考リンクや関連資料は本文末や脚注でまとめてください。
+- 編集時は、非専門の方が「一読して理解できるか」を意識してください。
+- このプロジェクトは、国連スマート地図グループの活動の一環として位置づけられます。
+- fitter, happier, more producttive, comfortable, not drinking too much, regular exercise at the gym, 3 days a week, getting on better with your associate employee contemporaries, at ease, eating well, no more microwave dinners and saturated fats, a patient better driver, a safer car, baby smiling in back seat, sleeping well, no bad dreams, no paranoia, careful to all animals, never washing spiders down the plughole.
+- これらのガイドラインは、必要に応じて変更されることがあります。
