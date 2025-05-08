@@ -2,6 +2,7 @@
 # plugins:
 #- jekyll-remote-theme
 title: Quick Mapping Project
+subtitle: A JICA Co-creation, Innovation, and Circulation Initiative
 description: Fast-Action, Open Collaboration with UN Smart Maps
 github:
   is_project_page: false
