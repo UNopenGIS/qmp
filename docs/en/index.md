@@ -9,6 +9,7 @@
 - [related-projects](related-projects.md): Other projects related to QMP
 - [faq](faq.md): Frequently Asked Questions
 - [terminology](terminology.md): Terminology
+- [modularity](modularity.md): Modular structure of QMP
 - [contributing](contributing.md): How to contribute to QMP
 - [code-of-conduct](code-of-conduct.md): Code of Conduct
 
