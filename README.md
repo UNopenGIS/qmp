@@ -1,2 +1,2 @@
 # qmp
-[Quick Mapping Project: Fast-Action, Open Collaboration with UN Smart Maps](https://unopengis.github.io/qmp/)
+[Quick Mapping Project: a JICA Co-creation, Innovation, and Circulation Initiative](https://unopengis.github.io/qmp/)
