@@ -12,6 +12,7 @@
 - [terminology](terminology.md): 用語集
 - [contributing](contributing.md): QMPへの貢献方法
 - [code-of-conduct](code-of-conduct.md): コード・オブ・コンダクト
+- [anken-gaiyo.md](anken-gaiyo.md): 案件概要
 
 ⚠️ **このリポジトリのドキュメントやコードには、GitHub CopilotなどのGenerative AIによる自動生成物が含まれています。**
 - 一部の内容はAIが自動的に作成したものであり、必ずしも人間の執筆者が内容をすべて確認・保証しているわけではありません。
