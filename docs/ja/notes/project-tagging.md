@@ -48,14 +48,16 @@ Quick Mapping Project (QMP) では、JICA資金による施設・インフラの
 ```
 amenity=school
 name=〇〇小学校
+name:ja=〇〇小学校
 name:en=XX Primary School
 funder=JICA
 wikidata=Q12345678
 ```
 
 *   `amenity=school`: 学校であることを示します。
-*   `name`: 学校の現地語名を記入します。
-*   `name:en`: 学校の英語名を記入します。
+*   `name`: 施設の現地語（ローカル言語）の正式名称を記入します。
+*   `name:ja`: 日本語名を記入します。
+*   `name:en`: 英語名を記入します。
 *   `funder=JICA`: 資金提供者を示します。
 *   `wikidata`: 対応するWikidataの項目があれば記入します。
 
@@ -65,6 +67,7 @@ wikidata=Q12345678
 amenity=hospital
 healthcare=hospital
 name=〇〇病院
+name:ja=〇〇病院
 name:en=XX Hospital
 emergency=yes
 funder=JICA
@@ -73,8 +76,9 @@ wikidata=Q87654321
 
 *   `amenity=hospital`: 病院であることを示します。
 *   `healthcare=hospital`: 医療施設であることを示します。
-*   `name`: 病院の現地語名を記入します。
-*   `name:en`: 病院の英語名を記入します。
+*   `name`: 施設の現地語（ローカル言語）の正式名称を記入します。
+*   `name:ja`: 日本語名を記入します。
+*   `name:en`: 英語名を記入します。
 *   `emergency=yes`: 救急対応の有無を示します。
 *   `funder=JICA`: 資金提供者を示します。
 *   `wikidata`: 対応するWikidataの項目があれば記入します。
@@ -84,6 +88,8 @@ wikidata=Q87654321
 ```
 highway=primary
 name=〇〇道路
+name:ja=〇〇道路
+name:en=XX Road
 surface=asphalt
 lanes=4
 funder=JICA
@@ -91,15 +97,18 @@ wikidata=Q11111111
 ```
 
 *   `highway=primary`: 主要な道路であることを示します。
+*   `name`: 施設の現地語（ローカル言語）の正式名称を記入します。
+*   `name:ja`: 日本語名を記入します。
+*   `name:en`: 英語名を記入します。
 *   `surface=asphalt`: 道路がアスファルト舗装であることを示します。
 *   `lanes=4`: 車線数を示します。
 *   `funder=JICA`: 資金提供者を示します。
 *   `wikidata`: 対応するWikidataの項目があれば記入します。
 
 **ポイント：**
-*   全てのタグを最初から完璧に入力する必要はありません。 わかる範囲で、できることから始めましょう。
-*   `name` タグには、現地の言葉での正式名称を記入することを心がけてください。
-*   `funder=JICA` は必須ではありませんが、可能な限り記入しましょう。
+*   全てのタグを最初から完璧に入力する必要はありません。わかる範囲で、できることから始めましょう。
+*   `name` は現地のローカル言語での名称、`name:ja` は日本語、`name:en` は英語名を記入します。
+*   `funder=JICA` は可能な限り記入しましょう。
 *   `wikidata` は将来的なデータ連携のために有効ですが、省略可です。
 
 ## より詳しく情報を記録したい方へ：OSMとWikidataの連携
